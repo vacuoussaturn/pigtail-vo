@@ -43,10 +43,13 @@ section {
   margin-bottom: 2.5rem;
 }
 
-h1 {
-    margin-bottom: 3%;
+.title h1 {
+    margin-bottom: 7%;
     font-size: 250%;
     text-align: center;
+    background-color: #000000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    border-style: inset;
 }
 
 h2 {

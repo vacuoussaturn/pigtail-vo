@@ -86,10 +86,11 @@ a:hover {
 }
 
 footer {
-  text-align: center;
+  text-align: right;
   margin-top: 4rem;
   padding: 2%;
   color: #64748b;
   font-size: 0.9rem;
   background-color: #000000;
+  padding-bottom: 3%;
 }
